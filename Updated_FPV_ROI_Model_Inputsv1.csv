@@ -1,0 +1,16 @@
+Category,Variable,Value,Notes
+Inputs,Drone Cost ($),500,Avg. FPV drone (DIY parts + explosive)
+Inputs,Target Value ($),2500000,Avg. Russian tank (T-72B3)
+Inputs,Direct Kill Rate (%),40,Probability of total destruction
+Inputs,Mobility Kill Rate (%),25,Probability of disabling tank
+Inputs,Failure Rate (%),35,Drone missed/jammed/shot down
+Inputs,Crew Replacement Cost ($),500000,Training + equipment per tank crew
+Inputs,EW Degradation (%),-15,ROI reduction due to Russian jamming
+Inputs,Logistics Multiplier,2,Secondary value of disrupting supply lines
+Inputs,Pilot Cost per Strike ($),2500,Cost to train/support per-strike pilot
+Inputs,Operator Reuse Probability,0.5,Probability pilot survives & reuses equipment
+Inputs,Strategic Depletion Multiplier,1.15,Use 1.0 as default; >1.0 if tanks scarce
+Inputs,Include Pilot Cost (TRUE/FALSE),TRUE,Enable/disable pilot cost in calc
+Calculations,Expected Value per Strike,#VALUE!,"Direct + mobility kills + crew cost, adjusted for failure and optionally pilot"
+Calculations,EW-Adjusted ROI,#VALUE!,ROI adjusted for electronic warfare
+Notes,Assumptions and References,"Pilot cost ranges $5,000–$25,000 per strike. Strategic multiplier increases value over time.","Includes qualitative models: mobility overlaps direct kill, future kill value rises with scarcity"
