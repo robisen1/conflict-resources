@@ -1,0 +1,69 @@
+Manufacturer,Model,FCC_ID,Uses_2_4_GHz,Uses_5_GHz,Source
+DJI,Mini 4 Pro,SS3-MT4MFVD23,Yes,Yes,https://www.dji.com/mini-4-pro/specs | https://fcc.report/FCC-ID/SS3-MT4MFVD23
+DJI,Air 3,SS3-EB3WBC2303,Yes,Yes,https://www.dji.com/air-3/specs | https://fcc.report/FCC-ID/SS3-EB3WBC2303
+DJI,Mavic 3 Pro,,Yes,Yes,https://www.dji.com/mavic-3-pro/specs
+DJI,Mavic 3 Classic,,Yes,Yes,https://www.dji.com/mavic-3-classic/specs
+DJI,Mavic 3 Enterprise (series),,Yes,Yes,https://enterprise.dji.com/mavic-3-enterprise/specs
+DJI,Avata,,Yes,Yes,https://www.dji.com/support/product/avata
+DJI,Avata 2,,Yes,Yes,https://www.dji.com/avata-2/specs
+DJI,DJI FPV,,Yes,Yes,https://www.dji.com/support/product/dji-fpv
+DJI,Air 3S,,Yes,Yes,https://www.dji.com/air-3s/specs
+DJI,Mavic Air,,Yes,Yes,https://www.dji.com/support/product/mavic-air
+Autel Robotics,EVO II (V2/V3),,Yes,Yes,https://www.autelrobotics.com/productdetail/evo-ii-drones/
+Autel Robotics,EVO II Pro V3,,Yes,Yes,https://www.autelrobotics.com/productdetail/evo-ii-pro-drones/
+Autel Robotics,EVO II Dual 640T V3,,Yes,Yes,https://www.autelrobotics.com/productdetail/evo-ii-dual-640t-drones/
+Parrot,Anafi Ai,,Yes,Yes,https://www.parrot.com/en/drones/anafi-ai/technical-documentation/technical-specifications
+Parrot,Anafi USA,2AG6IANAFIM3,Yes,Yes,https://fcc.report/FCC-ID/2AG6IANAFIM3
+Parrot,Anafi (original),2AG6IANAFI,Yes,Yes,https://fcc.report/FCC-ID/2AG6IANAFI
+Parrot,Anafi Thermal,,Yes,Yes,https://www.parrot.com/en/drones/anafi-thermal/technical-specifications
+Parrot,Anafi Work,,Yes,Yes,https://www.parrot.com/en/drones/technical-specifications-anafi-work
+Skydio,Skydio 2,2ATQRSDRC2V1,Yes,Yes,https://support.skydio.com/hc/en-us/articles/5338292379803-Comparing-Skydio-2-and-Skydio-2 | https://fcc.report/FCC-ID/2ATQRSDRC2V1
+Skydio,Skydio 2+,2ATQRSMO5GV1,Yes,Yes,https://support.skydio.com/hc/en-us/articles/5338292379803-Comparing-Skydio-2-and-Skydio-2 | https://fcc.report/FCC-ID/2ATQRSMO5GV1
+Skydio,X10 (Connect SL),,Yes,Yes,https://support.skydio.com/hc/en-us/articles/20592871628571-Understanding-Skydio-Connect
+Yuneec,Typhoon H Plus,,Yes,Yes,https://us.yuneec.com/typhoon-h-plus/info/ | https://us.yuneec.com/wp-content/uploads/2021/01/TYPHOON-H-PLUS-RS_USER-MANUAL_V1.0_20180830.pdf
+Yuneec,H520E,,Yes,Yes,https://shop.yuneec.com/H520E-mit-2-Akkus/YUNH520E-ETXLC_
+Yuneec,Typhoon Q500 4K,,Yes,Yes,https://us.yuneec.com/about-us/
+Holy Stone,HS720,,Yes (RC),Yes (FPV),https://www.holystone.com/article/detail/id/1668.html
+Holy Stone,HS720E,,Unknown,Yes (FPV),https://store.holystone.com/products/hs720-4k-gps-drone
+Holy Stone,HS720G,,Unknown,Yes (FPV),https://www.holystone.com/en/Drones/Premium/HS720G.html
+Holy Stone,HS700E,,Unknown,Yes (FPV),https://www.holystone.com/en/Drones/Premium/HS700E4KEIS.html
+Holy Stone,HS700D,,Yes (RC),Yes (FPV),https://www.holystone.com/en/Drones/Premium/HolyStoneHS700D.html
+Holy Stone,HS710,,Unknown,Yes (FPV),https://www.holystone.com/en/Drones/Premium/HS710.html
+Hubsan,H501S X4 Air,,Yes (RC),Yes (Video),https://www.hubsan.com/support/files/products/H501S/um/manual-en.pdf
+Ryze (DJI),Tello,,Yes,No,https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20User%20Manual%20v1.4.pdf
+FIMI,X8 Tele,,Yes,Yes,https://store.fimi.com/products/fimix8teledrone
+FIMI,Mini 3,,Yes,Yes,https://www.fimi.com/faq-fimi-mini-3.html
+iFlight,Nazgul Evoque F6 V2 (O3/O4),,Often (control),Yes (video),https://shop.iflight-rc.com/Nazgul-Evoque-F6-V2-6S-HD-RTF-Pro1900
+iFlight,Nazgul Evoque F5 V2 6S HD (O4),,Often (control),Yes (video),https://shop.iflight-rc.com/Nazgul-Evoque-F5-V2-6S-HD-RTF-Pro1901
+BETAFPV,Air65 (5IN1),,Yes (ELRS),Yes (VTX),https://betafpv.com/products/air65-brushless-whoop-quadcopter
+BETAFPV,Air75 (5IN1),,Yes (ELRS),Yes (VTX),https://betafpv.com/products/air75-brushless-whoop-quadcopter
+BETAFPV,Aquila16 FPV Kit,,Yes (ELRS),Yes (VTX),https://betafpv.com/products/aquila16-fpv-kit
+BETAFPV,HX115 LR,,Yes (ELRS),Yes (VTX),https://betafpv.com/products/hx115-lr-toothpick-drone
+BETAFPV,Meteor65 Pro O4,,Yes (ELRS),Yes (DJI O4),https://betafpv.com/products/meteor65-pro-o4-brushless-whoop-quadcopter
+BETAFPV,Meteor75 Pro O4,,Yes (ELRS),Yes (DJI O4),https://betafpv.com/products/meteor75-pro-o4-brushless-whoop-quadcopter
+DJI,Mavic 3 (base),,Yes,Yes,https://www.dji.com/support/product/mavic-3
+DJI,"Mini 4 Pro (again, RC 2)",SS3-MT4MFVD23,Yes,Yes,https://www.dji.com/support/product/rc-2
+DJI,Goggles 3 (paired aircraft),,Yes,Yes,https://www.dji.com/goggles-3/specs
+DJI,Goggles 2 (paired aircraft),,Yes,Yes,https://www.dji.com/support/product/goggles-2
+DJI,O3 Air Unit (component),,Receive,Tx (5.8),https://www.dji.com/support/product/o3-air-unit
+Yuneec,Breeze 4K,,Yes (RC),Likely (video),https://us.yuneec.com/about-us/
+Parrot,Bebop 2,,Yes,Yes,https://www.parrot.com/en/drones/anafi-work (controller specs show 2.4-5.8 for Skycontroller 3 used across Parrot)
+Autel Robotics,EVO Nano+,,Likely,Likely,https://www.autelrobotics.com/productdetail/evo-ii-drones/ (EVO family uses 2.4/5.8; Nano+ specs typically similar)
+Skydio,Skydio 2,2ATQRSDRC2V1,Yes,Yes,https://fcc.report/FCC-ID/2ATQRSDRC2V1
+Parrot,Anafi USA,2AG6IANAFIM3,Yes,Yes,https://fcc.report/FCC-ID/2AG6IANAFIM3
+DJI,Avata 2,SS3-QF3W4K23,Yes,Yes,https://fccid.io/SS3-QF3W4K23
+DJI,Mini 3 Pro,SS3-MT3M3VD,Yes,Yes,https://fcc.report/FCC-ID/SS3-MT3M3VD
+DJI,Mavic 2 Pro,SS3-L1P1805,Yes,Yes,https://fccid.io/SS3-L1P1805
+DJI,Phantom 4 Pro V2.0,SS3-WM331S1801,Yes,Yes,https://fccid.io/SS3-WM331S1801
+DJI,Inspire 2,SS3-T650A1609,Yes,Yes,https://fcc.report/FCC-ID/SS3-T650A1609
+Autel Robotics,EVO II V3,2AGNTMDC240958A,Yes,Yes,https://fccid.io/2AGNTMDC240958A
+Autel Robotics,EVO Nano / Nano+,2AGNTMDA2409A,Yes,Yes,https://fcc.report/FCC-ID/2AGNTMDA2409A
+Autel Robotics,EVO Lite / Lite+,2AGNTMDXM2409A,Yes,Yes,https://fcc.report/FCC-ID/2AGNTMDXM2409A
+Autel Robotics,EVO II (earlier),2AGNTMC2409A,Yes,Yes,https://fcc.report/FCC-ID/2AGNTMC2409A
+Parrot,Bebop 2,2AG6IANAFI,Yes,Yes,https://fccid.io/2AG6IANAFI
+Ryze,Tello,2AOOE-WM0041801,Yes,No,https://fccid.io/2AOOE-WM0041801
+Hubsan,Zino Mini Pro (aircraft),2AN75-ZINOMINIPRORX,Yes,Yes,https://fcc.report/FCC-ID/2AN75-ZINOMINIPRORX
+Potensic,Atom SE (aircraft),2AYUO-DSDR04B,Yes,Yes,https://fcc.report/FCC-ID/2AYUO-DSDR04B
+Potensic,Atom 2 (aircraft),2BK8B-DSDR23A,Yes,Yes,https://fcc.report/FCC-ID/2BK8B-DSDR23A
+FIMI,X8 SE 2022,2AYVYFMWRJ03A8,Yes,Unknown,https://fccid.io/2AYVYFMWRJ03A8
+Yuneec,H520E ST16E Ground Station (controller),2ACS5-ST16E,Yes,Yes,https://fccid.io/2ACS5-ST16E
